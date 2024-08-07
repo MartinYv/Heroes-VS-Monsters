@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesVSMonsters.Data", "HeroesVSMonsters\HeroesVSMonsters.Data.csproj", "{B8D2B15B-9354-44C8-BA67-C5A8D0552CD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "GameLogic\GameLogic.csproj", "{67BC45D8-E377-4EFC-AE58-B3AB28647EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D2B15B-9354-44C8-BA67-C5A8D0552CD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D2B15B-9354-44C8-BA67-C5A8D0552CD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D2B15B-9354-44C8-BA67-C5A8D0552CD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D2B15B-9354-44C8-BA67-C5A8D0552CD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67BC45D8-E377-4EFC-AE58-B3AB28647EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BC45D8-E377-4EFC-AE58-B3AB28647EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BC45D8-E377-4EFC-AE58-B3AB28647EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BC45D8-E377-4EFC-AE58-B3AB28647EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F810ED-79AF-461C-B74E-0A7973C8BD3F}
+	EndGlobalSection
+EndGlobal
